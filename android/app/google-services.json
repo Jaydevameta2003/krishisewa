@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "882908321514",
+    "project_id": "krishisewa-1e244",
+    "storage_bucket": "krishisewa-1e244.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882908321514:android:59612ef3d381b371b9a993",
+        "android_client_info": {
+          "package_name": "com.example.krishisewa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAAJnEEDFka81KGQdZsy1mEb1GPuyByco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882908321514:android:e709e90c33eb0039b9a993",
+        "android_client_info": {
+          "package_name": "com.krishisewa.krishisewa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAAJnEEDFka81KGQdZsy1mEb1GPuyByco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+const String OPENWEATHER_API_KEY = "4f949279eee2956ee55006fe7a73166f";
